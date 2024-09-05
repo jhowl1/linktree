@@ -5,13 +5,7 @@
     font-family: "Inter", sans-serif;
 }
 body{
-    height: 100vh;
     background-color:#ecffca ;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 30px;
 }
 .cabecalho{
     display: flex;/* filhos um do lado do outro */
@@ -34,7 +28,6 @@ body{
     display: flex;
     flex-direction: column;
     gap: 30px;
-    align-items: center;
 }
    .btns a{
     background-color: #7cefb9;
